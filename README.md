@@ -4,9 +4,6 @@
 <h3 align="center">Software Engineer | Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/shadmansaalim/shadmansaalim/blob/main/animated-coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadmansaalim&label=Profile%20views&color=0e75b6&style=flat" alt="shadmansaalim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadmansaalim" alt="shadmansaalim" /></a> </p>
 
 - 🔭 I’m currently working on [Brevemod.](https://brevemod-frontend.vercel.app/)
 
